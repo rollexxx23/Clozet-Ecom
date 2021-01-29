@@ -1,2 +1,2 @@
-# E-Commerce
-E-commerce website
+# Clozet Dot Com
+E-commerce website :bowtie:
